@@ -1,22 +1,28 @@
-# Hi 👋, I'm Luiz Carlos
+# Olá, eu sou o Luiz Carlos 👋
 
-### Cybersecurity Analyst | SOC, SIEM & Linux Systems
+### Analista de Segurança Cibernética | SOC, SIEM & Hardening Linux
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=luizzzxt&label=Profile views&color=0e75b6&style=flat" alt="luizzzxt" /> </p>
+Profissional focado na monitorização, deteção e resposta a incidentes de segurança. Atualmente focado na implementação e gestão de ambientes **SIEM (Wazuh)**, análise de logs de segurança e administração avançada de sistemas **Linux (RHEL/Kali)**.
 
-- 🔭 I'm currently working on: **Wazuh SIEM Lab & Linux Hardening Projects**
+---
 
-- 🌱 I'm currently learning: **SOC Analyst Path, Incident Response & Red Hat Administration**
+## 🛠️ Tecnologias & Domínios de Atuação
 
-- 👯 I'm looking to collaborate on: **Cybersecurity, Blue Team & Open Source Security Tools**
+- **Operações de Segurança:** Análise de Logs, Deteção de Ameaças, Resposta a Incidentes (Blue Team).
+- **Ferramentas SIEM & Lab:** Wazuh SIEM, Docker, Análise de Tráfego e Redes.
+- **Sistemas Operativos:** Red Hat Enterprise Linux (RHEL), Kali Linux, Hardening de Sistemas.
 
-- 🤝 I'm looking for help with: **Certificações de Cibersegurança, Análise SOC e Implementações de SIEM**
+---
 
-- 💬 Ask me about: **Wazuh, Linux Administration (RHEL/Kali), Docker, Networking & Log Analysis**
+## 📌 Foco Atual & Projetos
 
-- 📫 How to reach me: **lneto2787@gmail.com**
+| Área | Status / Objetivo |
+| :--- | :--- |
+| **Projetos em Destaque** | Laboratório de Wazuh SIEM e Projetos de Hardening em Linux |
+| **Estudos Atuais** | Trilha de Analista SOC, Resposta a Incidentes e Certificação RHEL |
+| **Colaboração** | Ferramentas de Segurança Open Source e Operações de Blue Team |
 
-- ⚡ Fun fact: **Curioso por natureza, sempre ansioso para aprender algo novo!**
+---
 
 - 👨‍💻 All of my projects are available at: **[https://github.com/luizzzxt](https://github.com/luizzzxt)**
 
