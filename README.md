@@ -1,16 +1,17 @@
-## Hi there 👋
+# Olá, eu sou o Luiz 👋
 
-<!--
-**luizzzxt/luizzzxt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Analista de Cibersegurança em Formação | SOC, SIEM & Hardening Linux
 
-Here are some ideas to get you started:
+## 🎯 Sobre Mim
+- 📜 Certificado de Conclusão no curso **Red Hat System Administration I (RH124)**.
+- 🛡️ Foco prático na implementação e análise de logs com o **SIEM Wazuh**.
+- 💻 Experiência prática em ecossistema **Kali Linux**, **Docker**, **Bash** e gestão de permissões no RHEL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Ferramentas & Tecnologias
+- **Sistemas Operativos:** RHEL / Red Hat Linux, Kali Linux, Debian, Windows.
+- **SIEM & Monitorização:** Wazuh (Manager, Indexer, Dashboard), OpenSearch, Filebeat.
+- **Virtualização & Containers:** Docker, Docker Compose, VirtualBox.
+- **Redes & Segurança:** Wireshark, UniFi Network, Análise de Logs (`/var/log/auth.log`, `journalctl`).
+
+## 📁 Projetos em Destaque
+- 🛡️ **[wazuh-siem-lab](https://github.com/luizzzxt/wazuh-siem-lab)**: Implantação do Wazuh v4.9 em Docker para monitorização de eventos de segurança.
