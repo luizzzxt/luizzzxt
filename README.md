@@ -37,8 +37,12 @@
   <!-- Cartão de Estatísticas Gerais -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizzzxt&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Estatísticas do GitHub" />
   
-  <!-- Cartão de Linguagens Mais Usadas -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizzzxt&layout=compact&theme=tokyonight&hide=html,css&card_width=320" alt="Linguagens mais utilizadas" />
+<p align="center">
+  <!-- Cartão de Estatísticas Gerais -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizzzxt&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Estatísticas do GitHub" />
+  
+  <!-- Cartão de Linguagens Mais Usadas (Sem Portugol, HTML e CSS) -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizzzxt&layout=compact&theme=tokyonight&hide=por,portugol,html,css&card_width=320" alt="Linguagens mais utilizadas" />
 </p>
 
 <p align="center">
