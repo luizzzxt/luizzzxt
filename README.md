@@ -1,6 +1,6 @@
 <div align="center">
 
-# Luiz Neto
+# LUIZ NETO
 
 ### Analista de Segurança Cibernética · SOC · SIEM · Hardening Linux
 
