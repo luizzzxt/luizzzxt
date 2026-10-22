@@ -4,21 +4,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luizzzxt&label=Profile views&color=0e75b6&style=flat" alt="luizzzxt" /> </p>
 
-- 🔭 I'm currently working on **Wazuh SIEM Lab & Linux Hardening Projects**
+- 🔭 I'm currently working on: **Wazuh SIEM Lab & Linux Hardening Projects**
 
-- 🌱 I'm currently learning **SOC Analyst Path, Incident Response & Red Hat Administration**
+- 🌱 I'm currently learning: **SOC Analyst Path, Incident Response & Red Hat Administration**
 
-- 👯 I'm looking to collaborate on **Cybersecurity, Blue Team & Open Source Security Tools**
+- 👯 I'm looking to collaborate on: **Cybersecurity, Blue Team & Open Source Security Tools**
 
-- 🤝 I'm looking for help with **Certificações de Cibersegurança, Análise SOC e Implementações de SIEM**
+- 🤝 I'm looking for help with: **Certificações de Cibersegurança, Análise SOC e Implementações de SIEM**
 
-- 💬 Ask me about **Wazuh, Linux Administration (RHEL/Kali), Docker, Networking & Log Analysis**
+- 💬 Ask me about: **Wazuh, Linux Administration (RHEL/Kali), Docker, Networking & Log Analysis**
 
-- 📫 How to reach me **lneto2787@gmail.com**
+- 📫 How to reach me: **lneto2787@gmail.com**
 
-- ⚡ Fun fact **Curioso por natureza, sempre ansioso para aprender algo novo!**
+- ⚡ Fun fact: **Curioso por natureza, sempre ansioso para aprender algo novo!**
 
-- 👨‍💻 All of my projects are available at **[https://github.com/luizzzxt](https://github.com/luizzzxt)**
+- 👨‍💻 All of my projects are available at: **[https://github.com/luizzzxt](https://github.com/luizzzxt)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
