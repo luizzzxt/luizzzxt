@@ -10,8 +10,7 @@
 
 <a href="mailto:lneto2787@gmail.com"><img src="https://img.shields.io/badge/Gmail-lneto2787@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 <a href="https://github.com/luizzzxt"><img src="https://img.shields.io/badge/GitHub-luizzzxt-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/luiz-neto-029288380/><img src="https://img.shields.io/badge/LinkedIn-Luiz%20Carlos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-
+<a href="https://www.linkedin.com/in/luiz-neto-029288380/"><img src="https://img.shields.io/badge/LinkedIn-Luiz%20Carlos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </div>
 
 ---
