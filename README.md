@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:03140a,100:00ff41&height=240&section=header&text=Luiz%20Carlos&fontSize=64&fontColor=00ff41&fontAlignY=38&animation=fadeIn&desc=Cybersecurity%20Analyst%20%7C%20SOC%20%C2%B7%20SIEM%20%C2%B7%20Blue%20Team&descSize=20&descColor=c9d1d9&descAlignY=60" alt="Banner Luiz Carlos - Cybersecurity Analyst" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:03140a,100:00ff41&height=240&section=header&text=Luiz%20Carlos&fontSize=64&fontColor=00ff41&fontAlignY=38&animation=fadeIn&desc=Cybersecurity%20Analyst%20%7C%20SOC%20%C2%B7%20SIEM%20%C2%B7%20Blue%20Team&descSize=20&descColor=c9d1d9&descAlignY=60" alt="Banner Luiz Neto - Cybersecurity Analyst" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=720&height=40&lines=%3E+Monitoramento+e+detec%C3%A7%C3%A3o+de+amea%C3%A7as;%3E+Wazuh+SIEM+%7C+An%C3%A1lise+de+logs;%3E+Hardening+Linux+%28RHEL%2FKali%29;%3E+Resposta+a+incidentes+%7C+Blue+Team" alt="Digitando: monitoramento, Wazuh SIEM, hardening Linux, resposta a incidentes"/>
 
